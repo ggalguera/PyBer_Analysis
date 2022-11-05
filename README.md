@@ -23,4 +23,3 @@ Average Fare per driver is the highest on Rural areas, we recommend to the CEO t
 Urban cities seems to be a high demand area and most of the PyBer income comes from here, we recommend the CEO to focuss on urban areas to have a good customer support to have all customer happy and loyal to PyBer.
 We recommend to do more analysis the specific weeks that we had an increment on total fares, is we can determine what drove this behavior and replicate this behavior we can standarize the strategy to increase yearly total fares for PyBer.
 
-### Other Analysis
